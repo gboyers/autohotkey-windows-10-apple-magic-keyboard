@@ -61,6 +61,7 @@ F15::SendInput {Pause}
 #z::SendInput ^{z}
 #y::SendInput ^{y}
 #t::SendInput ^{t}
+#+t::SendInput ^+{t}
 #w::SendInput ^{w}
 
 ; Close windows (cmd + q to Alt + F4)
